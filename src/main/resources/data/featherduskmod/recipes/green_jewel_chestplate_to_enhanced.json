@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#F#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "featherduskmod:yellow_jewel"
+        },
+        "F": {
+            "item": "featherduskmod:green_jewel_chestplate"
+        }
+    },
+    "result": {
+        "item": "featherduskmod:enhanced_green_jewel_chestplate",
+        "count": 1
+    }
+}
