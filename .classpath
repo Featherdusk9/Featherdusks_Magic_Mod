@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="net/minecraftforge/event/world/|net/minecraftforge/fml/client/gui/screen/" kind="src" path="build/tmp/expandedArchives/forge-1.16.5-36.1.0_mapped_official_1.16.5-sources.jar_8ab021b7bacb66045ab06b45233c21ea"/>
+	<classpathentry kind="src" path="build/tmp/expandedArchives/forge-1.16.5-36.1.0_mapped_official_1.16.5-sources.jar_8ab021b7bacb66045ab06b45233c21ea/net/minecraftforge/event/world"/>
+	<classpathentry kind="src" path="build/tmp/expandedArchives/forge-1.16.5-36.1.0_mapped_official_1.16.5-sources.jar_8ab021b7bacb66045ab06b45233c21ea/net/minecraftforge/fml/client/gui/screen"/>
+	<classpathentry kind="src" path="build/tmp/expandedArchives/forge-1.16.5-36.1.0-inject_src.jar_b7cb56c54338f77ccec467a6639f2485"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="build/_renameJarInPlace_6/output.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin/main"/>
+</classpath>
