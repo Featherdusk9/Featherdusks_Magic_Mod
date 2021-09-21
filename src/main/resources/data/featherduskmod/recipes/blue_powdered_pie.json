@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P"
+    ],
+    "key": {
+        "#": {
+            "item": "featherduskmod:blue_powder"
+        },
+        "P": {
+            "item": "minecraft:pumpkin_pie"
+        }
+    },
+    "result": {
+        "item": "featherduskmod:blue_powdered_pie",
+        "count": 1
+    }
+}

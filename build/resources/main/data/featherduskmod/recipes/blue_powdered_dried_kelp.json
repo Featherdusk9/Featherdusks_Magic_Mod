@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P"
+    ],
+    "key": {
+        "#": {
+            "item": "featherduskmod:blue_powder"
+        },
+        "P": {
+            "item": "minecraft:dried_kelp"
+        }
+    },
+    "result": {
+        "item": "featherduskmod:blue_powdered_dried_kelp",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A"
+    ],
+    "key": {
+        "#": {
+            "item": "featherduskmod:blue_powder"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "featherduskmod:blue_powdered_apple",
+        "count": 1
+    }
+}

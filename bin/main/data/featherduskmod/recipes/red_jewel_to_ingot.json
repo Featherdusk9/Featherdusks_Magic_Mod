@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "featherduskmod:red_jewel"
+        }
+    },
+    "result": {
+        "item": "featherduskmod:red_jewel_ingot",
+        "count": 1
+    }
+}

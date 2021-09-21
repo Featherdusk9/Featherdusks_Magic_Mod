@@ -1,0 +1,12 @@
+modLoader="javafml" 
+loaderVersion="[36,)" 
+license="All rights reserved"
+[[mods]] 
+modId="featherduskmod" 
+version="1.0" 
+displayName="Featherdusk's Mod" 
+credits="Thanks for this mod" 
+authors="Featherdusk for making the mod."
+description='''
+'''
+

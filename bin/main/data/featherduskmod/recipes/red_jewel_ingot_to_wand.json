@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  f",
+        " f ",
+        "f  "
+    ],
+    "key": {
+        "f": {
+            "item": "featherduskmod:red_jewel_ingot"
+        }
+    },
+    "result": {
+        "item": "featherduskmod:wand",
+        "count": 1
+    }
+}

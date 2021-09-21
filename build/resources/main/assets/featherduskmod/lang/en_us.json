@@ -1,0 +1,48 @@
+{
+	"block.featherduskmod.jeweled_ore": "Jeweled Ore",
+	"tile.featherduskmod.jeweled_ore": "Jeweled Ore",
+	"item.featherduskmod.red_jewel": "Red Jewel",
+	"item.featherduskmod.blue_jewel": "Blue Jewel",
+	"item.featherduskmod.blue_powder": "Blue Powder",
+	"item.featherduskmod.blue_powdered_apple": "Blue Powdered Apple",
+	"item.featherduskmod.blue_powdered_cookie": "Blue Powdered Cookie",
+	"item.featherduskmod.blue_powdered_pie": "Blue Powdered Pie",
+	"item.featherduskmod.blue_powdered_dried_kelp": "Blue Powdered Dried Kelp",
+	
+	
+	"item.featherduskmod.yellow_jewel": "Yellow Jewel",
+	
+	"effect.featherduskmod.yellow_jewel_effect": "Yellow Jewel",
+	
+	"item.minecraft.potion.effect.yellow_jewel_effect": "Potion of Yellow Jewel",
+	"item.minecraft.potion.effect.long_yellow_jewel_effect": "Potion of Yellow Jewel",
+	"item.minecraft.potion.effect.strong_yellow_jewel_effect": "Potion of Yellow Jewel",
+	
+	"item.minecraft.splash_potion.effect.yellow_jewel_effect": "Splash Potion of Yellow Jewel",
+	"item.minecraft.splash_potion.effect.long_yellow_jewel_effect": "Splash Potion of Yellow Jewel",
+	"item.minecraft.splash_potion.effect.strong_yellow_jewel_effect": "Splash Potion of Yellow Jewel",
+	
+	"item.minecraft.lingering_potion.effect.yellow_jewel_effect": "Lingering Potion of Yellow Jewel",
+	"item.minecraft.lingering_potion.effect.long_yellow_jewel_effect": "Lingering Potion of Yellow Jewel",
+	"item.minecraft.lingering_potion.effect.strong_yellow_jewel_effect": "Lingering Potion of Yellow Jewel",
+	
+	"item.minecraft.tipped_arrow.effect.yellow_jewel_effect": "Arrow of Yellow Jewel",
+	"item.minecraft.tipped_arrow.effect.long_yellow_jewel_effect": "Arrow of Yellow Jewel",
+	"item.minecraft.tipped_arrow.effect.strong_yellow_jewel_effect": "Arrow of Yellow Jewel",
+	
+	
+	"item.featherduskmod.green_jewel": "Green Jewel",
+	"item.featherduskmod.red_jewel_ingot": "Red Jewel Ingot",
+	"item.featherduskmod.wand": "Wand",
+	"item.featherduskmod.green_jewel_helmet" : "Green Jewel Helmet",
+	"item.featherduskmod.green_jewel_chestplate" : "Green Jewel Chestplate",
+	"item.featherduskmod.green_jewel_leggings" : "Green Jewel Leggings",
+	"item.featherduskmod.green_jewel_boots" : "Green Jewel Boots",
+	"item.featherduskmod.enhanced_green_jewel_helmet" : "Enhanced Green Jewel Helmet",
+	"item.featherduskmod.enhanced_green_jewel_chestplate" : "Enhanced Green Jewel Chestplate",
+	"item.featherduskmod.enhanced_green_jewel_leggings" : "Enhanced Green Jewel Leggings",
+	"item.featherduskmod.enhanced_green_jewel_boots" : "Enhanced Green Jewel Boots",
+	"itemGroup.magictab": "Magic Items",
+	"p_77624_3_.wand.hold_shift": "Hold \u00A7eShift \u00A77for More Information",
+	"p_77624_3_.magicarmor.hold_shift": "Hold \u00A7eShift \u00A77for More Information"
+}

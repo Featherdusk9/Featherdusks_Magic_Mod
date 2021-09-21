@@ -1,0 +1,32 @@
+com/example/featherduskmod/core/init/EntityTypeInit.java
+ com.example.featherduskmod.core.init.EntityTypeInit
+com/example/featherduskmod/core/init/EnchantmentInit.java
+ com.example.featherduskmod.core.init.EnchantmentInit
+com/example/featherduskmod/common/items/MagicArmor.java
+ com.example.featherduskmod.common.items.MagicArmor
+com/example/featherduskmod/client/util/ClientUtils.java
+ com.example.featherduskmod.client.util.ClientUtils
+com/example/featherduskmod/core/init/PotionInit.java
+ com.example.featherduskmod.core.init.PotionInit
+ com.example.featherduskmod.core.init.PotionInit$MagicBrewingRecipe
+com/example/featherduskmod/core/init/ContainerTypeInit.java
+ com.example.featherduskmod.core.init.ContainerTypeInit
+com/example/featherduskmod/core/enums/ArmorMaterial.java
+ com.example.featherduskmod.core.enums.ArmorMaterial
+com/example/featherduskmod/core/init/BlockInit.java
+ com.example.featherduskmod.core.init.BlockInit
+com/example/featherduskmod/core/enums/WandMaterial.java
+ com.example.featherduskmod.core.enums.WandMaterial
+com/example/featherduskmod/common/items/Wand.java
+ com.example.featherduskmod.common.items.Wand
+com/example/featherduskmod/FeatherduskMod.java
+ com.example.featherduskmod.FeatherduskMod
+ com.example.featherduskmod.FeatherduskMod$MagicGroup
+com/example/featherduskmod/core/init/TileEntityTypeInit.java
+ com.example.featherduskmod.core.init.TileEntityTypeInit
+com/example/featherduskmod/world/OreGeneration.java
+ com.example.featherduskmod.world.OreGeneration
+com/example/featherduskmod/core/init/ItemInit.java
+ com.example.featherduskmod.core.init.ItemInit
+com/example/featherduskmod/common/potions/YellowJewelEffect.java
+ com.example.featherduskmod.common.potions.YellowJewelEffect
