@@ -1,2 +1,3 @@
 # Featherdusks_Magic_Mod
-# Testing
+
+Minecraft mod created for AP Computer Science A end of the year project. 
